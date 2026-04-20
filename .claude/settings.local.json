@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"from frontend.pages.settings import render; print\\('OK'\\)\")",
+      "Bash(python -c ':*)",
+      "Bash(python -m streamlit run frontend/app.py --server.headless true)",
+      "Bash(curl -s http://localhost:8501/_stcore/health)",
+      "Bash(python -m py_compile frontend/app.py)",
+      "Bash(python -m py_compile frontend/pages/dashboard.py)",
+      "Bash(python -m py_compile frontend/pages/alert_review.py)",
+      "Bash(python -m py_compile frontend/pages/settings.py)",
+      "Bash(python -m py_compile frontend/pages/audit_log.py)"
+    ]
+  }
+}

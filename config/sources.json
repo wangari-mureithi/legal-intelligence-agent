@@ -1,0 +1,237 @@
+[
+  {
+    "name": "Kenya Law — Recent Legislation",
+    "url": "https://www.kenyalaw.org/kl/index.php?id=2563",
+    "category": "Legislation",
+    "enabled": true
+  },
+  {
+    "name": "Kenya Gazette",
+    "url": "https://www.kenyalaw.org/kenya_gazette",
+    "category": "Gazette",
+    "enabled": true
+  },
+  {
+    "name": "Kenya Gazette — Legal Notices",
+    "url": "https://www.kenyalaw.org/kl/index.php?id=2565",
+    "category": "Gazette",
+    "enabled": true
+  },
+  {
+    "name": "Kenya Gazette Legal Notices Volume",
+    "url": "https://kenyalaw.org/kenya_gazette/gazette/volume/",
+    "category": "Gazette",
+    "enabled": true
+  },
+  {
+    "name": "Parliament — National Assembly Bills",
+    "url": "https://www.parliament.go.ke/the-national-assembly/bills",
+    "category": "Bills",
+    "enabled": true
+  },
+  {
+    "name": "Parliament — Senate Bills",
+    "url": "https://www.parliament.go.ke/the-senate/bills",
+    "category": "Bills",
+    "enabled": true
+  },
+  {
+    "name": "Parliament — Gambling Control Bill (PDF)",
+    "url": "https://www.parliament.go.ke/sites/default/files/2025-04/The%20Gambling%20Control%20Bill%20%28NA.%20No.%2070%20of%202023%29.pdf",
+    "category": "Gambling",
+    "enabled": true
+  },
+  {
+    "name": "National Treasury — Budget & Finance",
+    "url": "https://www.treasury.go.ke/budget.html",
+    "category": "Tax & Finance",
+    "enabled": true
+  },
+  {
+    "name": "National Treasury — Press Releases",
+    "url": "https://www.treasury.go.ke/press-releases.html",
+    "category": "Tax & Finance",
+    "enabled": true
+  },
+  {
+    "name": "CMA — Draft Regulations",
+    "url": "https://www.cma.or.ke/draft-regulations/",
+    "category": "Capital Markets",
+    "enabled": true
+  },
+  {
+    "name": "CMA — Public Notices",
+    "url": "https://www.cma.or.ke/public-notices/",
+    "category": "Capital Markets",
+    "enabled": true
+  },
+  {
+    "name": "CMA — Regulatory Framework",
+    "url": "https://www.cma.or.ke/regulatory-framework/",
+    "category": "Capital Markets",
+    "enabled": true
+  },
+  {
+    "name": "CBK — Press Releases",
+    "url": "https://www.centralbank.go.ke/press-releases/",
+    "category": "Banking & Finance",
+    "enabled": true
+  },
+  {
+    "name": "CBK — Publications",
+    "url": "https://www.centralbank.go.ke/publications/",
+    "category": "Banking & Finance",
+    "enabled": true
+  },
+  {
+    "name": "CBK — Fintech & Innovation",
+    "url": "https://www.centralbank.go.ke/fintech-innovation/",
+    "category": "Banking & Finance",
+    "enabled": true
+  },
+  {
+    "name": "CBK — Digital Currency",
+    "url": "https://www.centralbank.go.ke/digital-currency/",
+    "category": "Banking & Finance",
+    "enabled": true
+  },
+  {
+    "name": "CBK — Financial Consumer Protection",
+    "url": "https://www.centralbank.go.ke/financial-consumer-protection/",
+    "category": "Banking & Finance",
+    "enabled": true
+  },
+  {
+    "name": "CBK Speeches and Publications",
+    "url": "https://www.centralbank.go.ke/speeches-publications/",
+    "category": "Banking & Finance",
+    "enabled": true
+  },
+  {
+    "name": "Communications Authority — Publications",
+    "url": "https://www.ca.go.ke/publications/",
+    "category": "Telecoms & Tech",
+    "enabled": true
+  },
+  {
+    "name": "Communications Authority — Regulations",
+    "url": "https://www.ca.go.ke/regulations/",
+    "category": "Telecoms & Tech",
+    "enabled": true
+  },
+  {
+    "name": "Competition Authority of Kenya",
+    "url": "https://www.competition.go.ke/media/press-releases",
+    "category": "Competition",
+    "enabled": true
+  },
+  {
+    "name": "EPRA — Regulations",
+    "url": "https://www.epra.go.ke/regulations/",
+    "category": "Energy",
+    "enabled": true
+  },
+  {
+    "name": "EPRA — Press Releases",
+    "url": "https://www.epra.go.ke/press-releases/",
+    "category": "Energy",
+    "enabled": true
+  },
+  {
+    "name": "Judiciary — Judgments & Rulings",
+    "url": "https://www.judiciary.go.ke/judgments/",
+    "category": "Court Rulings",
+    "enabled": true
+  },
+  {
+    "name": "Kenya Law — Caselaw",
+    "url": "https://www.kenyalaw.org/caselaw/cases/advanced_search/",
+    "category": "Court Rulings",
+    "enabled": true
+  },
+  {
+    "name": "KEPI — Copyright Board",
+    "url": "https://copyright.go.ke/media-center/news-updates/",
+    "category": "IP & Copyright",
+    "enabled": true
+  },
+  {
+    "name": "Copyright Bill — Public Comments",
+    "url": "https://copyright.go.ke/media-center/news-updates/invitation-public-comments-proposed-copyright-and-related-rights-bill",
+    "category": "IP & Copyright",
+    "enabled": true
+  },
+  {
+    "name": "ICT Authority — Publications",
+    "url": "https://www.icta.go.ke/publications/",
+    "category": "Telecoms & Tech",
+    "enabled": true
+  },
+  {
+    "name": "Office of the Data Protection Commissioner",
+    "url": "https://www.odpc.go.ke/resources/",
+    "category": "Data Protection",
+    "enabled": true
+  },
+  {
+    "name": "BCLB — Betting Control and Licensing Board",
+    "url": "https://bclb.go.ke/",
+    "category": "Gambling",
+    "enabled": true
+  },
+  {
+    "name": "BCLB — Regulations & Guidelines",
+    "url": "https://bclb.go.ke/regulations/",
+    "category": "Gambling",
+    "enabled": true
+  },
+  {
+    "name": "BCLB Draft Gambling Regulations",
+    "url": "https://bclb.go.ke/public-participation/",
+    "category": "Gambling",
+    "enabled": true
+  },
+  {
+    "name": "Kenya Revenue Authority Updates",
+    "url": "https://www.kra.go.ke/news-and-events/public-notices",
+    "category": "Tax",
+    "enabled": true
+  },
+  {
+    "name": "PPB Kenya Notices",
+    "url": "https://www.ppb.go.ke/index.php/notices",
+    "category": "Pharmaceutical & Health",
+    "enabled": true
+  },
+  {
+    "name": "Business Daily Africa — Law & Regulation",
+    "url": "https://www.businessdailyafrica.com/bd/economy",
+    "category": "News",
+    "enabled": true
+  },
+  {
+    "name": "Standard Media Legal & Court News",
+    "url": "https://www.standardmedia.co.ke/tag/court",
+    "category": "News",
+    "enabled": true
+  },
+  {
+    "name": "The Star Kenya Law & Courts",
+    "url": "https://www.the-star.co.ke/tags/courts",
+    "category": "News",
+    "enabled": true
+  },
+  {
+    "name": "Nation Africa Business & Law",
+    "url": "https://nation.africa/kenya/business",
+    "category": "News",
+    "enabled": true
+  },
+  {
+    "name": "Mondaq Kenya — Government & Public Sector",
+    "url": "https://www.mondaq.com/kenya/government-public-sector",
+    "category": "Legal Commentary",
+    "enabled": true,
+    "note": "Low priority — only process if article references a specific bill, act, or gazette notice by name"
+  }
+]

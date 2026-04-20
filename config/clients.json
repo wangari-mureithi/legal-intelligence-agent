@@ -1,0 +1,42 @@
+[
+  {
+    "id": "client_001",
+    "name": "Acme Corporation Ltd",
+    "email": "legal@acmecorp.co.ke",
+    "practice_areas": ["Corporate", "Tax", "Employment"],
+    "contact_person": "Jane Doe",
+    "active": true
+  },
+  {
+    "id": "client_002",
+    "name": "First National Bank Kenya",
+    "email": "compliance@fnbkenya.co.ke",
+    "practice_areas": ["Banking & Finance", "Corporate", "Tax"],
+    "contact_person": "John Smith",
+    "active": true
+  },
+  {
+    "id": "client_003",
+    "name": "TechVentures Africa",
+    "email": "counsel@techventures.co.ke",
+    "practice_areas": ["Telecoms & Tech", "Corporate", "Competition"],
+    "contact_person": "Alice Mwangi",
+    "active": true
+  },
+  {
+    "id": "client_004",
+    "name": "Savanna Energy Holdings",
+    "email": "legal@savannaenergy.co.ke",
+    "practice_areas": ["Energy", "Corporate", "Tax"],
+    "contact_person": "Robert Kamau",
+    "active": true
+  },
+  {
+    "id": "client_005",
+    "name": "Capital Markets Broker Ltd",
+    "email": "compliance@cmbltd.co.ke",
+    "practice_areas": ["Capital Markets", "Banking & Finance", "Corporate"],
+    "contact_person": "Sarah Otieno",
+    "active": true
+  }
+]
