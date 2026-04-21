@@ -1,0 +1,29 @@
+# Environment variables — never push these
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+env/
+venv/
+.venv/
+
+# Database — contains real alert data
+*.db
+*.sqlite
+*.sqlite3
+
+# Outputs — generated PDFs and newsletters
+/outputs/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
