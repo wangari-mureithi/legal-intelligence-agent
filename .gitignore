@@ -14,6 +14,10 @@ venv/
 *.db
 *.sqlite
 *.sqlite3
+*.db-shm
+*.db-wal
+*.sqlite-shm
+*.sqlite-wal
 
 # Outputs — generated PDFs and newsletters
 /outputs/
